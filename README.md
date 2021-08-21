@@ -2,6 +2,8 @@
 
 [You can visit our site from this link](https://ca-wiki-v1.herokuapp.com/)
 
+## I'm going to refactor this project, front-end and back-end throw two phases. :fire:
+
 ## Team Leader
 
 * Rana Obeid.
