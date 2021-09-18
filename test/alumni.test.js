@@ -360,7 +360,6 @@ describe('Assign projects to student', () => {
       .expect(400)
       .expect('Content-Type', /json/)
       .end(async (err, res) => {
-        console.log(`res.body.dataaaaa`, res.body);
         const { message } = res.body.data;
         if (err) return done(err);
         expect(message).toEqual([
