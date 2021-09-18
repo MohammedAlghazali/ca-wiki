@@ -5,7 +5,7 @@ const dbBuild = require('../server/database/data/build');
 const app = require('../server/app');
 
 const token =
-  'token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNTg2MDU0MjM1fQ.ANOdUJz-kWK-m9hdOc4Ee-NA4bx_VaRK-pxehp399G8';
+  'token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjMxOTc4Mzg2fQ.IFmJEu3830QCmYkPtgLMgaHev0ArZORMm19Tatkz7dk';
 
 beforeEach(() => dbBuild());
 afterAll(() => connection.end());
