@@ -2,7 +2,31 @@
 
 [You can visit our site from this link](https://ca-wiki-v1.herokuapp.com/)
 
+---
+---
+---
+
 ## I'm going to refactor this project, front-end and back-end throw two phases. :fire:
+
+## Phase 1 (update packages)
+
+### update some packages and add new needed packages.
+
+This phase will continue during refactor as needed
+
+## Phase 2 (refactor the Front-end side in the project)
+
+### refactor the react component, using functional component with hooks, use Redux if needed, re-create some component and split them into small components.
+
+### using sass instead of normal css in the project.
+
+### check the accessability.
+
+### check performance and enhance it and check the structure of the page and apply and back-end changes needed for that.
+
+---
+---
+---
 
 ## Team Leader
 
